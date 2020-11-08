@@ -1,4 +1,3 @@
-*poner una descripcion bacan*
 Quien diría que es un gran día para realizar un descripción 
 increible, sin lugar a dudas puede que sea el mejor proyecto 
 open source que la humanidad vaya a presenciar, no solo eso
